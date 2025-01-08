@@ -3,7 +3,14 @@
 ![https://drive.google.com/file/d/1r0VnuZR7Am_J7nyd8FBvzq1Fho3W1Fvx/view](https://github.com/Utkarshchaudhary009/Utkarshchaudhary009/blob/main/UtkarshChaudhary009.png)
 
 ## About Me 🌟 
-I am a 10th-grade student passionate about web development and AI/ML. Skilled in HTML, CSS, JavaScript, Node.js, React, Next.js, Python, and Flask. Creator of the "Friday" voice assistant. Always eager to learn and contribute to open source
+I am a 11th-grade student passionate about web development and AI/ML. Skilled in HTML, CSS, JavaScript, Node.js, React, Next.js, Python, and Flask. Creator of the "Friday" voice assistant. Always eager to learn and contribute to open source
+### Web Development
+- **[Virat.Kohli](https://github.com/Utkarshchaudhary009/virat.kohli):** A dedicated fan page celebrating the life and achievements of Virat Kohli, featuring images, stats, and interactive content.
+![Bio image](https://github.com/Utkarshchaudhary009/Utkarshchaudhary009/raw/main/bio.png)
+
+![Gallery image](https://github.com/Utkarshchaudhary009/Utkarshchaudhary009/raw/main/gallery.png)
+
+![Home image](https://github.com/Utkarshchaudhary009/Utkarshchaudhary009/raw/main/home.png)
 
 ### Robotics
 - **[Smart Home](https://github.com/Utkarshchaudhary009/SmartHome):** Arduino-based smart home system that automates light control based on ambient light levels and door control using an ultrasonic sensor.
